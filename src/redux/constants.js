@@ -1,0 +1,5 @@
+export const ADD_SERVICE = 'ADD_SERVICE';
+export const REMOVE_SERVICE = 'REMOVE_SERVICE';
+export const TOGGLE_EDIT_MODE = 'TOGGLE_EDIT_MODE';
+export const FIELD_CHANGED = 'FIELD_CHANGED';
+export const EDIT_SERVICE = 'EDIT_SERVICE';
